@@ -1,113 +1,113 @@
 [[Darknet]]
 arch = "i686"
-git-tree-sha1 = "bda9b09fc974f3dce8ef8e0e944b8a9819d62ccf"
+git-tree-sha1 = "ae1e79f18f2cf04d26c6ef9b8492abd008c39017"
 libc = "glibc"
 os = "linux"
 
     [[Darknet.download]]
-    sha256 = "f782e50eafcb969c7a8c8c1ba4d4cbf7aaecd105b4356f8d23f7f25e028c94a9"
-    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+0/Darknet.v2019.11.15.i686-linux-gnu.tar.gz"
+    sha256 = "cf2c609b661368c4af2e8fced3af623f4e755e096c530e50eff4c9bacf83070c"
+    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+1/Darknet.v2019.11.15.i686-linux-gnu.tar.gz"
 [[Darknet]]
 arch = "x86_64"
-git-tree-sha1 = "e52ed7b5972a975879722e7bf9c5d723616cbec8"
+git-tree-sha1 = "1308f2ad2975d378367fdaeb2aea0d390d22c312"
 libc = "glibc"
 os = "linux"
 
     [[Darknet.download]]
-    sha256 = "43727110c63c45335330e066d35efc9ac57554e9e8702d79ada7155e9b193422"
-    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+0/Darknet.v2019.11.15.x86_64-linux-gnu.tar.gz"
+    sha256 = "3b4c55391f982f62272f09f31f2154973e7ca89ecc0fb3ae42b1445b0de788c3"
+    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+1/Darknet.v2019.11.15.x86_64-linux-gnu.tar.gz"
 [[Darknet]]
 arch = "i686"
-git-tree-sha1 = "672f2932b5e5af3b0181974cfbdd59aa1b0c1c41"
+git-tree-sha1 = "fdf25500c50ccd2dfeff9acfdaa92ab16218dcc1"
 os = "windows"
 
     [[Darknet.download]]
-    sha256 = "862e1b6207a47edf6129c39c0bfbcd0626984c0b457e4fbdd0d43384c5560af5"
-    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+0/Darknet.v2019.11.15.i686-w64-mingw32.tar.gz"
+    sha256 = "6fb6e84b3dc5f2e00d9ff8296da6df5c689c4103e7dbb157d0817c98613d180a"
+    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+1/Darknet.v2019.11.15.i686-w64-mingw32.tar.gz"
 [[Darknet]]
 arch = "x86_64"
-git-tree-sha1 = "dbf9dc944f4e2f0372ca086f235461f063f14f8b"
+git-tree-sha1 = "74a6276902d9b286c526a5b965de5eeefb23c09a"
 libc = "musl"
 os = "linux"
 
     [[Darknet.download]]
-    sha256 = "209f928240ae40303ae0f9d442eeab76807e7debefe2ebe8e4928416f8eb6d2c"
-    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+0/Darknet.v2019.11.15.x86_64-linux-musl.tar.gz"
+    sha256 = "15be3871528e4aa84fe31e8da844f77850d5f88eaee13bf2d80ac0acd43a12f7"
+    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+1/Darknet.v2019.11.15.x86_64-linux-musl.tar.gz"
 [[Darknet]]
 arch = "armv7l"
-git-tree-sha1 = "5a25083deeada315111917489b85c83a8e801a38"
+git-tree-sha1 = "bc681f2bb5b98fa5e6416500d44089a0bfba92b4"
 libc = "glibc"
 os = "linux"
 
     [[Darknet.download]]
-    sha256 = "9765b15deb1b14338a1477ef3c4c670efc6f57717eff5dbdbd68a1b2c7f39c9a"
-    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+0/Darknet.v2019.11.15.arm-linux-gnueabihf.tar.gz"
+    sha256 = "603cece00cefce692cdd37333d216c538841d5323462fb5b8ba80f1a4d4757fe"
+    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+1/Darknet.v2019.11.15.arm-linux-gnueabihf.tar.gz"
 [[Darknet]]
 arch = "aarch64"
-git-tree-sha1 = "f2f52a7bd0736fbc1e7db3a1aabe01f64e2dc112"
+git-tree-sha1 = "2911f35e7fb2b129d41054be87baada0f59ca909"
 libc = "musl"
 os = "linux"
 
     [[Darknet.download]]
-    sha256 = "1fc34f7c2267fdf531343c4e647589c524bfd61be7f930fb3f96412c24816883"
-    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+0/Darknet.v2019.11.15.aarch64-linux-musl.tar.gz"
+    sha256 = "0733f8b0eb92668d9d9ee6b35db7130ca5f825725ce00f8e5fb244615b520506"
+    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+1/Darknet.v2019.11.15.aarch64-linux-musl.tar.gz"
 [[Darknet]]
 arch = "powerpc64le"
-git-tree-sha1 = "e81a059277e07ac9e51b58c39577023231a4cffe"
+git-tree-sha1 = "737bb2cb1d5ed4615d539ff316f802556de4a9d0"
 libc = "glibc"
 os = "linux"
 
     [[Darknet.download]]
-    sha256 = "48c4773bb4607502856196cb1bc2c20c4e0c0986e02629658f65b449b63043ae"
-    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+0/Darknet.v2019.11.15.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "4c49dcc136f3118f0c18570719164a27fe866eec45dfb1f0600fb612bb8b66ce"
+    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+1/Darknet.v2019.11.15.powerpc64le-linux-gnu.tar.gz"
 [[Darknet]]
 arch = "x86_64"
-git-tree-sha1 = "5be2acd0c9ea1424caf193704ada730410d19d26"
+git-tree-sha1 = "521e9c18b10f75960778e8c848a6381071f47d67"
 os = "freebsd"
 
     [[Darknet.download]]
-    sha256 = "a9d93a8b3d08b8c804b58057682bf8fabe6bcd2e4946cd963cce8586cc95c537"
-    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+0/Darknet.v2019.11.15.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "71549925243572c211821aea4e48a7d6defc85337dbf83d588c3d745e984bc70"
+    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+1/Darknet.v2019.11.15.x86_64-unknown-freebsd11.1.tar.gz"
 [[Darknet]]
 arch = "aarch64"
-git-tree-sha1 = "a4f5dd4c42de37ee467759ce317bdab495f55afa"
+git-tree-sha1 = "bc90fae76439b1a29d5046eb74974743d1f065e5"
 libc = "glibc"
 os = "linux"
 
     [[Darknet.download]]
-    sha256 = "0ac41c4c69a46d311060226ea9cbb70f9e123650f8052e33a14caebece6ab2f9"
-    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+0/Darknet.v2019.11.15.aarch64-linux-gnu.tar.gz"
+    sha256 = "a4c5830207ef950790a54ae42f3772f030db74234ff102eb829244f9a9b9a821"
+    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+1/Darknet.v2019.11.15.aarch64-linux-gnu.tar.gz"
 [[Darknet]]
 arch = "i686"
-git-tree-sha1 = "c61fb92965691fa2d7be63500d970f009adec615"
+git-tree-sha1 = "2b7d5c1ade5bf6bc9f9171364732f2fdb69ea5d0"
 libc = "musl"
 os = "linux"
 
     [[Darknet.download]]
-    sha256 = "5d4c5d3d242f25a43252089bb5b32364adefb1b22c709f729d1b3a1ec1f3dd83"
-    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+0/Darknet.v2019.11.15.i686-linux-musl.tar.gz"
+    sha256 = "97ef902020fb7b7d4ac79024875e58ad9209fb7c7b23a504c476d82af32a9deb"
+    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+1/Darknet.v2019.11.15.i686-linux-musl.tar.gz"
 [[Darknet]]
 arch = "armv7l"
-git-tree-sha1 = "bc4fe26cb9fbbc87e18018b117b435dfe87ec65b"
+git-tree-sha1 = "c6c0d3273d6d58bf1e4606fe562516f519db97fe"
 libc = "musl"
 os = "linux"
 
     [[Darknet.download]]
-    sha256 = "3ef76ae5c12ada3c522bf31001c654e6d6e1e561c3efc22a123f94a32b380d1b"
-    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+0/Darknet.v2019.11.15.arm-linux-musleabihf.tar.gz"
+    sha256 = "a19c7293fa371d7072dc4db550edb965274dacb4cf9d1a28baaf2a6be4fa4b6d"
+    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+1/Darknet.v2019.11.15.arm-linux-musleabihf.tar.gz"
 [[Darknet]]
 arch = "x86_64"
-git-tree-sha1 = "b3f8c2c89e91b2aa894fb2248286098ea507261f"
+git-tree-sha1 = "f58c89d7ef586bfb50158d07252bbb1e45cf5a66"
 os = "windows"
 
     [[Darknet.download]]
-    sha256 = "2297e938d7593b5038c1fffba3ae3b066cd113f8dc7706c3cb2e5771a6fbb44d"
-    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+0/Darknet.v2019.11.15.x86_64-w64-mingw32.tar.gz"
+    sha256 = "d2d4dbe7b9f124faf11cef4903ab14e159bfa2297a61c20d3786bd63e09e1081"
+    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+1/Darknet.v2019.11.15.x86_64-w64-mingw32.tar.gz"
 [[Darknet]]
 arch = "x86_64"
-git-tree-sha1 = "4a9f71e0e961c0382d8c75d0aea7828588d9ebbe"
+git-tree-sha1 = "72fd9b3df6f965f03bc3a91aeb8677dee5a3bcf2"
 os = "macos"
 
     [[Darknet.download]]
-    sha256 = "22bf6620007db81db7cc5ace8741fdc4a431d0fcb0c2af86804870b86a9f43d0"
-    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+0/Darknet.v2019.11.15.x86_64-apple-darwin14.tar.gz"
+    sha256 = "3ba22f119b1717f474340ff809cf522733ab764a65f26e4c8410dfcd9d72e747"
+    url = "https://github.com/JuliaBinaryWrappers/Darknet_jll.jl/releases/download/Darknet-v2019.11.15+1/Darknet.v2019.11.15.x86_64-apple-darwin14.tar.gz"
