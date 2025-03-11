@@ -1,6 +1,6 @@
 name = "Darknet_jll"
 uuid = "761d2b37-0f2d-5ad8-be19-54610544a161"
-version = "2021.10.29+0"
+version = "2021.10.29+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
